@@ -1,0 +1,3 @@
+GET http://symfony.local.de/todos
+Accept: */*
+Cache-Control: no-cache
